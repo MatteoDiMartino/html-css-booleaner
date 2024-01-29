@@ -52,5 +52,14 @@ body {
 .little_paragraph {
     padding: 0px;
     margin: 0px;
-    
+}
+
+#fulltext {
+    font-size: 20px;
+    margin-left: 0.7%;
+
+}
+
+#bgyellow {
+    background-color: yellow;
 }
