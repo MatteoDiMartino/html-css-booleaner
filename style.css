@@ -60,10 +60,26 @@ body {
 
 }
 
-#bgyellow {
+.bgyellow {
     background-color: yellow;
 }
 
 .aligntb {
     text-align: left;
+    margin-left: 0.7%;
+}
+
+.c1-2 {
+    width: 25%;
+    background-color:#20A9E5 ;
+}
+
+
+#c3 {
+    width: 50%;
+    background-color:#20A9E5 ;
+}
+
+.cn123 {
+    background-color: #B1E5F2 ;
 }
