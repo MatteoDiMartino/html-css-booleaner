@@ -1,4 +1,6 @@
-
+body {
+    margin: 0px;
+}
 
 #background-logo {
     background-image: url(./img/pattern.png);
@@ -16,12 +18,14 @@
 
 .art1-section {
     font-size: 30px;
+    margin-left: 0.7%;
 }
 
 #sottotitolo {
     font-size: 19px;
     margin: 0px;
     color: #808080;
+    
 }
 
 #minisottotitolo {
@@ -41,9 +45,12 @@
 
 #pictures {
     margin: 20px 20px 20px 0px;
+    
+    margin-left: 0.7%;
 }
 
 .little_paragraph {
     padding: 0px;
     margin: 0px;
+    
 }
