@@ -92,7 +92,7 @@ body {
 #walp1 {
     background-image: url(./img/monitor.jpg);
     background-repeat: no-repeat;
-    height: 300px;
+    height: 200px;
     color: white;
     font-size: 26px;
 }
@@ -100,7 +100,7 @@ body {
 #walp2 {
     background-image: url(./img/graph.jpg);
     background-repeat: no-repeat;
-    height: 300px;
+    height: 200px;
     color: white;
     font-size: 26px;
 }
