@@ -83,3 +83,24 @@ body {
 .cn123 {
     background-color: #B1E5F2 ;
 }
+
+.lastheading {
+    color: #808080;
+    margin-left: 0.7%;
+}
+
+#walp1 {
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    color: white;
+    font-size: 26px;
+}
+
+#walp2 {
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    color: white;
+    font-size: 26px;
+}
