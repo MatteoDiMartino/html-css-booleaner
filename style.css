@@ -1,9 +1,10 @@
+
+
 #background-logo {
     background-image: url(./img/pattern.png);
     background-size: contain;
     background-repeat: repeat-x;
     background-color: #4EA0FF;
-
 }
 
 #logo {
@@ -36,4 +37,8 @@
 
 #booleaner_color {
     color: #20A9E5;
+}
+
+#pictures {
+    margin: 20px 20px 20px 0px;
 }
