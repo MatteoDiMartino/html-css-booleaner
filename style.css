@@ -16,3 +16,18 @@
 .art1-section {
     font-size: 30px;
 }
+
+#sottotitolo {
+    font-size: 19px;
+    margin: 0;
+}
+
+#minisottotitolo {
+    font-size: 15px;
+    margin: 0;
+
+}
+
+#titolo_principale {
+    margin: 20px 0px 0px 0px;
+}
